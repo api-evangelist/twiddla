@@ -1,0 +1,74 @@
+{
+    "name": "Twiddla!",
+    "description": "Twiddla is an Online Whiteboard for the Modern Classroom.  Mark up websites, graphics, and photos, or start brainstorming on a blank canvas.  Voice and Text chat too!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/507-twiddla!.jpg",
+    "tags": [
+        "have api",
+        "meetings",
+        "social",
+        "website management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/twiddla\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Twiddla!",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/507-twiddla!.jpg",
+            "humanURL": "http:\/\/www.twiddla.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/twiddla-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.twiddla.com\/API\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.twiddla.com\/Blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.twiddla.com\/blog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/twiddla"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/twiddla"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.twiddla.com\/API\/Reference.aspx"
+        },
+        {
+            "type": "Email",
+            "url": "info@twiddla.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/twiddla"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/twiddla"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.twiddla.com"
+        }
+    ]
+}
